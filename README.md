@@ -5,3 +5,10 @@ This repo consists of MySQL Commands for quick review through the terminal
 ```sql
 mysql -u root -p
 ```
+
+### To Check if the Database exists:
+```sql
+SHOW DATABASES
+```
+
+
