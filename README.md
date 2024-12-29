@@ -11,4 +11,9 @@ mysql -u root -p
 SHOW DATABASES
 ```
 
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/3dae1982-2e17-42f2-b37b-964864ee462f" />
+
+### To create a Database:
+```sql
+```
 
